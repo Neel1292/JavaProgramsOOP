@@ -29,3 +29,9 @@ public class FailFast {
     
     }
 }
+
+
+// Output:
+
+// PS C:\Users\Neel Prajapati\OneDrive\Desktop\Java Task> cd "c:\Users\Neel Prajapati\OneDrive\Desktop\Java Task\" ; if ($?) { javac FailFast.java } ; if ($?) { java FailFast }
+// java.util.ConcurrentModificationException

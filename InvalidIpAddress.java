@@ -1,3 +1,5 @@
+// Custom Exception Example
+
 class IpAddress extends Exception {
      String ip = "192.21.3.10";
 	

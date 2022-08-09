@@ -49,9 +49,15 @@ public class MultiExecutorThread {
           execute.submit(task1);
           execute.submit(task2);
           execute.submit(task3);
-
-
-
-
     }
 }
+
+// OUTPUT :
+
+// Inside :main
+// Creating Executor Service......
+// Cretaing Runnable for Multithreading....
+// Submitting Tasks.... 
+// Executing Task 2 : pool-1-thread-2      
+// Executing Task 1 : pool-1-thread-1      
+// Executing Task 3 : pool-1-thread-2

@@ -18,3 +18,28 @@ public class ThreadTask extends Thread {
           }
     }
 }
+
+// OUTPUT :
+
+// New Threaad
+// New Threaad
+// New Threaad
+// New Threaad
+// New Threaad
+// New Threaad
+// Child Thread
+// Child Thread
+// Child Thread
+// New Threaad
+// New Threaad
+// New Threaad
+// Child Thread
+// Child Thread
+// Child Thread
+// New Threaad
+// New Threaad
+// Child Thread
+// Child Thread
+// Child Thread
+// Child Thread
+// Child Thread
